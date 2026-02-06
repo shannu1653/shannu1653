@@ -71,7 +71,25 @@ Cart | Products | UI
 
 ---
 
+
+## 🚀 Projects
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=Shanmukha_Portfolio&theme=green_nur" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=Smart-Traffic&theme=green_nur" />
+
+</p>
+
+---
+
 ## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shannu1653&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shannu1653&show_icons=true&theme=green_nur" />
@@ -79,6 +97,19 @@ Cart | Products | UI
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1653&theme=green_nur" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
+---
+
+
+## Activity Graph 📈
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shannu1653&theme=react-dark" />
 </p>
 
 ---
