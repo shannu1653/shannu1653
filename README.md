@@ -77,15 +77,16 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Overview  
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shannu1653&count_private=true&show_icons=true&theme=green_nur&hide_border=true" />
-</p>
+- 🔭 Active Full Stack Developer  
+- ⭐ Open Source Contributor  
+- 🧠 Continuous Learner  
+- 🚀 Building real-world projects  
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shannu1653&layout=compact&theme=green_nur&hide_border=true" />
-</p>
+👉 View my GitHub activity here:  
+https://github.com/shannu1653
+
 
 
 ---
