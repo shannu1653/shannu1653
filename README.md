@@ -6,11 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Django+%7C+MySQL;Open+To+Work;Building+Real+World+Projects" />
 </p>
 
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=900&lines=Hi+I'm+Shanmukha+Penta;Full+Stack+Developer;React+%7C+Django+%7C+MySQL;Open+To+Work;Building+Real+World+Projects" />
-</p>
-
 <p align="center">
 <img src="profile.png" width="180" style="border-radius:50%; border:5px solid #00ff00;" />
 </p>
@@ -21,15 +16,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
 
-
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
+---
 
 ## 👋 About Me  
 
-Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building real-world applications using modern technologies.
+Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building production-ready web applications.
 
 ✅ Clean UI  
 ✅ Scalable Backend  
@@ -41,6 +36,7 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building re
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
 
+---
 
 ## 🌐 Portfolio  
 
@@ -49,7 +45,9 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building re
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
 
-## RESUME
+---
+
+## 📄 Resume  
 
 <p align="center">
 <a href="resume.pdf">
@@ -57,6 +55,7 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building re
 </a>
 </p>
 
+---
 
 ## 🛠 Tech Stack  
 
@@ -78,49 +77,24 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building re
 ![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-00ff00?style=for-the-badge&logo=visualstudiocode)
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
 
+---
 
-## 📌 Featured Projects  
-
-### 🚦 Smart Traffic Management  
-React + Django + JWT + Analytics  
-
-### 🎟 Premium Event Booking  
-Ticketing | Wishlist | Dark Mode  
-
-### 🏪 Smart Canteen Menu  
-Admin Panel | Orders  
-
-### 🛒 FoodMart  
-Cart | Products | UI  
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
-
-
-
-## 🚀 Projects
+## 🚀 Projects  
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=Shanmukha_Portfolio&theme=green_nur" />
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=Smart-Traffic&theme=green_nur" />
-
 </p>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
-
+---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shannu1653&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
-
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shannu1653&show_icons=true&theme=green_nur" />
@@ -130,35 +104,23 @@ Cart | Products | UI
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1653&theme=green_nur" />
 </p>
 
+---
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
-
-
-## CONTRIBUTION CALENDAR
-
+## 📅 Contribution Calendar  
 
 <p align="center">
 <img src="https://ghchart.rshah.org/00ff00/shannu1653" />
 </p>
 
+---
 
-## Activity Graph 📈
+## 📈 Activity Graph  
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shannu1653&theme=react-dark" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
-
-## 📈 Languages  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1653&layout=compact&theme=green_nur" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
-
+---
 
 ## 🐍 Contribution Snake  
 
@@ -166,16 +128,15 @@ Cart | Products | UI
 <img src="https://raw.githubusercontent.com/shannu1653/shannu1653/output/github-contribution-grid-snake.svg" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
-
+---
 
 ## 🔗 Connect  
 
 [![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github)](https://github.com/shannu1653)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge)](https://shanmukha-portfolio-three.vercel.app)
+[![Email](https://img.shields.io/badge/Email-00ff00?style=for-the-badge)](mailto:your-email@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
-
+---
 
 ## 💡 What I Bring  
 
@@ -185,11 +146,9 @@ Cart | Products | UI
 ✔ Clean UI  
 ✔ Real projects  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+---
 
-
-🚀 Always learning. Always building.
-
+🚀 Always learning. Always building.  
 ⚡ *Consistency beats talent.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
