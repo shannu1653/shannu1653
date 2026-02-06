@@ -91,6 +91,7 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1653&layout=compact&theme=green_nur" />
 </p>
 
+
 ---
 
 ## 🐍 Contribution Snake  
@@ -98,6 +99,7 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 <p align="center">
 <img src="https://raw.githubusercontent.com/shannu1653/shannu1653/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
