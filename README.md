@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Django+%7C+MySQL;Open+To+Work;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Django+%7C+MySQL;Open+To+Work+%F0%9F%9A%80;Building+Real+World+Projects;Always+Learning" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 👋 About Me  
 
-Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on building real-world applications.
+Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on building production-ready applications.
 
 ✔ Clean UI  
 ✔ Scalable Backend  
@@ -26,7 +26,16 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 ✔ Dashboards  
 ✔ Deployment  
 
-🎯 Open to **Frontend / Full Stack Fresher Roles**
+🎯 **Open to Frontend / Full Stack Fresher Roles**
+
+---
+
+## 🌟 Highlights  
+
+🏆 Fresher with real-world projects  
+🚀 Portfolio deployed  
+🧠 Continuous learner  
+💼 Ready for opportunities  
 
 ---
 
@@ -69,44 +78,29 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects  
 
 ### 🚦 Smart Traffic Management System  
-🔹 React Dashboard  
-🔹 Django REST API  
-🔹 JWT Authentication  
-🔹 Real-time Analytics  
-
+React • Django • JWT • Analytics  
 🔗 Repo: https://github.com/shannu1653/Smart-Traffic  
 
 ---
 
 ### 🎟 Premium Event Booking Platform  
-🔹 Event CRUD  
-🔹 Ticket Booking  
-🔹 Wishlist  
-🔹 Dark Mode  
-
+CRUD • Tickets • Wishlist • Dark Mode  
 🔗 Repo: https://github.com/shannu1653  
 
 ---
 
 ### 🏪 Smart Canteen Menu  
-🔹 Admin Panel  
-🔹 Order System  
-🔹 Menu Management  
-
+Admin Panel • Orders • Menu  
 🔗 Repo: https://github.com/shannu1653  
 
 ---
 
 ### 🛒 FoodMart Web App  
-🔹 Product Listing  
-🔹 Cart System  
-🔹 Responsive UI  
-
+Products • Cart • Responsive UI  
 🔗 Repo: https://github.com/shannu1653  
-
 
 ---
 
@@ -117,10 +111,7 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 - 🧠 Continuous Learner  
 - 🚀 Building real-world projects  
 
-👉 View my GitHub activity here:  
-https://github.com/shannu1653
-
-
+👉 https://github.com/shannu1653  
 
 ---
 
@@ -132,7 +123,7 @@ https://github.com/shannu1653
 
 ---
 
-## 🔗 Connect  
+## 📬 Let’s Connect  
 
 [![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github)](https://github.com/shannu1653)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge)](https://shanmukha-portfolio-three.vercel.app)
