@@ -80,16 +80,17 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shannu1653&show_icons=true&theme=green_nur" />
+<img src="https://github-readme-stats.vercel.app/api?username=shannu1653&show_icons=true&theme=green_nur&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1653&theme=green_nur" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1653&theme=green_nur&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1653&layout=compact&theme=green_nur" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1653&layout=compact&theme=green_nur&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 ---
 
