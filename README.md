@@ -78,8 +78,7 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 ---
 
 ## 📊 GitHub Stats  
-
-
+## 📊 GitHub Stats  
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shannu1653&show_icons=true&theme=green_nur" />
