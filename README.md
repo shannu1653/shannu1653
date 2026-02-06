@@ -1,49 +1,39 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=220&section=header&text=Shanmukha%20Penta&fontSize=55&fontColor=00ff00&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=220&section=header&text=Shanmukha%20Penta&fontSize=55&fontColor=00ff00" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Django+%7C+MySQL;Open+To+Work;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Django+%7C+MySQL;Open+To+Work;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
-<img src="profile.png" width="180" style="border-radius:50%; border:5px solid #00ff00;" />
+<img src="profile.png" width="170" style="border-radius:50%; border:4px solid #00ff00;" />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shannu1653&label=PROFILE+VIEWS&color=00ff00&style=flat" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
 ---
 
 ## 👋 About Me  
 
-Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building production-ready web applications.
+Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on building real-world applications.
 
-✅ Clean UI  
-✅ Scalable Backend  
-✅ REST APIs  
-✅ Dashboards  
-✅ Deployment  
+✔ Clean UI  
+✔ Scalable Backend  
+✔ REST APIs  
+✔ Dashboards  
+✔ Deployment  
 
-🎯 Currently seeking **Frontend / Full Stack Developer (Fresher / Junior)** roles.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+🎯 Open to **Frontend / Full Stack Fresher Roles**
 
 ---
 
 ## 🌐 Portfolio  
 
-👉 https://shanmukha-portfolio-three.vercel.app  
-👉 https://github.com/shannu1653  
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+🔗 https://shanmukha-portfolio-three.vercel.app  
+🔗 https://github.com/shannu1653  
 
 ---
 
@@ -77,24 +67,17 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building pr
 ![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-00ff00?style=for-the-badge&logo=visualstudiocode)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
-
 ---
 
 ## 🚀 Projects  
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=Shanmukha_Portfolio&theme=green_nur" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=Smart-Traffic&theme=green_nur" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shannu1653&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shannu1653&show_icons=true&theme=green_nur" />
@@ -104,20 +87,8 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building pr
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1653&theme=green_nur" />
 </p>
 
----
-
-## 📅 Contribution Calendar  
-
 <p align="center">
-<img src="https://ghchart.rshah.org/00ff00/shannu1653" />
-</p>
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shannu1653&theme=react-dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1653&layout=compact&theme=green_nur" />
 </p>
 
 ---
