@@ -10,7 +10,8 @@
 <img src="https://komarev.com/ghpvc/?username=shannu1653&label=PROFILE+VIEWS&color=00ff00&style=flat" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
 
 ## 👋 About Me  
 
@@ -24,14 +25,16 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building re
 
 🎯 Currently seeking **Frontend / Full Stack Developer (Fresher / Junior)** roles.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
 
 ## 🌐 Portfolio  
 
 👉 https://shanmukha-portfolio-three.vercel.app  
 👉 https://github.com/shannu1653  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
 
 ## 🛠 Tech Stack  
 
@@ -53,7 +56,9 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building re
 ![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-00ff00?style=for-the-badge&logo=visualstudiocode)
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
 
 ## 📌 Featured Projects  
 
@@ -69,7 +74,9 @@ Admin Panel | Orders
 ### 🛒 FoodMart  
 Cart | Products | UI  
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
 
 
 ## 🚀 Projects
@@ -82,7 +89,9 @@ Cart | Products | UI
 
 </p>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
 
 ## 📊 GitHub Stats  
 
@@ -99,11 +108,10 @@ Cart | Products | UI
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1653&theme=green_nur" />
 </p>
 
----
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
 
----
 
 
 ## Activity Graph 📈
@@ -112,7 +120,7 @@ Cart | Products | UI
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shannu1653&theme=react-dark" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
 
 ## 📈 Languages  
 
@@ -120,7 +128,8 @@ Cart | Products | UI
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1653&layout=compact&theme=green_nur" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
 
 ## 🐍 Contribution Snake  
 
@@ -128,14 +137,16 @@ Cart | Products | UI
 <img src="https://raw.githubusercontent.com/shannu1653/shannu1653/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
 
 ## 🔗 Connect  
 
 [![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github)](https://github.com/shannu1653)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge)](https://shanmukha-portfolio-three.vercel.app)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
 
 ## 💡 What I Bring  
 
@@ -145,7 +156,8 @@ Cart | Products | UI
 ✔ Clean UI  
 ✔ Real projects  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
 
 🚀 Always learning. Always building.
 
