@@ -71,9 +71,42 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 
 ## 🚀 Projects  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=Shanmukha_Portfolio&theme=green_nur" />
-</p>
+### 🚦 Smart Traffic Management System  
+🔹 React Dashboard  
+🔹 Django REST API  
+🔹 JWT Authentication  
+🔹 Real-time Analytics  
+
+🔗 Repo: https://github.com/shannu1653/Smart-Traffic  
+
+---
+
+### 🎟 Premium Event Booking Platform  
+🔹 Event CRUD  
+🔹 Ticket Booking  
+🔹 Wishlist  
+🔹 Dark Mode  
+
+🔗 Repo: https://github.com/shannu1653  
+
+---
+
+### 🏪 Smart Canteen Menu  
+🔹 Admin Panel  
+🔹 Order System  
+🔹 Menu Management  
+
+🔗 Repo: https://github.com/shannu1653  
+
+---
+
+### 🛒 FoodMart Web App  
+🔹 Product Listing  
+🔹 Cart System  
+🔹 Responsive UI  
+
+🔗 Repo: https://github.com/shannu1653  
+
 
 ---
 
