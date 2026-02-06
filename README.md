@@ -14,7 +14,10 @@
 <img src="https://komarev.com/ghpvc/?username=shannu1653&label=PROFILE+VIEWS&color=00ff00&style=flat" />
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ## 👋 About Me  
 
@@ -28,7 +31,10 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 
 🎯 **Open to Frontend / Full Stack Fresher Roles**
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ## 🌟 Highlights  
 
@@ -37,14 +43,20 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 🧠 Continuous learner  
 💼 Ready for opportunities  
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ## 🌐 Portfolio  
 
 🔗 https://shanmukha-portfolio-three.vercel.app  
 🔗 https://github.com/shannu1653  
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ## 📄 Resume  
 
@@ -54,7 +66,10 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 </a>
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ## 🛠 Tech Stack  
 
@@ -76,33 +91,73 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 ![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-00ff00?style=for-the-badge&logo=visualstudiocode)
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
+
+### 🔋 Skill Levels
+
+React        ██████████░░ 85%  
+JavaScript  █████████░░░ 80%  
+Python      █████████░░░ 80%  
+Django      ████████░░░░ 75%  
+MySQL       ███████░░░░░ 70%  
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ## 🚀 Featured Projects  
 
-### 🚦 Smart Traffic Management System  
-React • Django • JWT • Analytics  
-🔗 Repo: https://github.com/shannu1653/Smart-Traffic  
+<div align="center">
 
----
+### 🚦 Smart Traffic Management System
+
+| Feature | Tech |
+|--------|------|
+| Frontend | React |
+| Backend | Django |
+| Auth | JWT |
+| DB | MySQL |
+
+🔗 https://github.com/shannu1653/Smart-Traffic
+
+</div>
+ 
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ### 🎟 Premium Event Booking Platform  
 CRUD • Tickets • Wishlist • Dark Mode  
 🔗 Repo: https://github.com/shannu1653  
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ### 🏪 Smart Canteen Menu  
 Admin Panel • Orders • Menu  
 🔗 Repo: https://github.com/shannu1653  
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ### 🛒 FoodMart Web App  
 Products • Cart • Responsive UI  
 🔗 Repo: https://github.com/shannu1653  
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ## 📊 GitHub Overview  
 
@@ -113,7 +168,20 @@ Products • Cart • Responsive UI
 
 👉 https://github.com/shannu1653  
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
+
+
+## 📈 Contribution Graph
+
+```svg
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+<polyline fill="none" stroke="#00ff00" stroke-width="3"
+points="0,100 40,80 80,60 120,90 160,40 200,70 240,30 280,60 320,20 360,40"/>
+</svg>
+```
 
 ## 🐍 Contribution Snake  
 
@@ -121,15 +189,33 @@ Products • Cart • Responsive UI
 <img src="https://raw.githubusercontent.com/shannu1653/shannu1653/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ## 📬 Let’s Connect  
 
-[![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github)](https://github.com/shannu1653)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge)](https://shanmukha-portfolio-three.vercel.app)
-[![Email](https://img.shields.io/badge/Email-00ff00?style=for-the-badge)](mailto:your-email@gmail.com)
+<p align="center">
+<a href="https://github.com/shannu1653">
+<img src="https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
----
+<a href="https://shanmukha-portfolio-three.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge" />
+</a>
+</p>
+
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 ## 💡 What I Bring  
 
@@ -139,7 +225,10 @@ Products • Cart • Responsive UI
 ✔ Clean UI  
 ✔ Real projects  
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
 
 🚀 Always learning. Always building.  
 ⚡ *Consistency beats talent.*
