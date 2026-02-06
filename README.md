@@ -176,12 +176,14 @@ Products • Cart • Responsive UI
 
 ## 📈 Contribution Graph
 
-```svg
-<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
-<polyline fill="none" stroke="#00ff00" stroke-width="3"
-points="0,100 40,80 80,60 120,90 160,40 200,70 240,30 280,60 320,20 360,40"/>
-</svg>
-```
+<p align="center">
+<img src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='420' height='120'>
+<polyline points='0,100 40,80 80,60 120,90 160,40 200,70 240,30 280,60 320,20 360,40'
+fill='none' stroke='%2300ff00' stroke-width='3'/>
+</svg>" />
+</p>
+
 
 ## 🐍 Contribution Snake  
 
