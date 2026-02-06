@@ -174,13 +174,12 @@ Products • Cart • Responsive UI
 
 
 
-## 📈 Contribution Graph
-
-## 📈 Real Contribution Graph
+## 🧊 3D Contribution Graph
 
 <p align="center">
-<img src="https://ghchart.rshah.org/00ff00/shannu1653" alt="Shanmukha Penta GitHub Contributions" />
+<img src="profile-3d-contrib/profile-night-green.svg" />
 </p>
+
 
 
 ## 🐍 Contribution Snake  
