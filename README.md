@@ -1,4 +1,13 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=220&section=header&text=Shanmukha%20Penta&fontSize=55&fontColor=00ff00&animation=fadeIn" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Django+%7C+MySQL;Open+To+Work;Building+Real+World+Projects" />
+</p>
+
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=900&lines=Hi+I'm+Shanmukha+Penta;Full+Stack+Developer;React+%7C+Django+%7C+MySQL;Open+To+Work;Building+Real+World+Projects" />
 </p>
 
@@ -11,6 +20,11 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 
 ## 👋 About Me  
@@ -34,6 +48,14 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** building re
 👉 https://github.com/shannu1653  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
+
+## RESUME
+
+<p align="center">
+<a href="resume.pdf">
+<img src="https://img.shields.io/badge/Download%20Resume-00ff00?style=for-the-badge" />
+</a>
+</p>
 
 
 ## 🛠 Tech Stack  
@@ -113,6 +135,13 @@ Cart | Products | UI
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2"/>
 
 
+## CONTRIBUTION CALENDAR
+
+
+<p align="center">
+<img src="https://ghchart.rshah.org/00ff00/shannu1653" />
+</p>
+
 
 ## Activity Graph 📈
 
@@ -162,3 +191,5 @@ Cart | Products | UI
 🚀 Always learning. Always building.
 
 ⚡ *Consistency beats talent.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
