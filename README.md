@@ -179,41 +179,11 @@ Products • Cart • Responsive UI
   <img src="profile-3d-contrib/profile-night-green.svg" />
 </p>
 
-
-<p align="center">
-<svg width="90%" height="6">
-  <line x1="0" y1="3" x2="100%" y2="3" stroke="#00ff00" stroke-width="3">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite" />
-  </line>
-</svg>
-</p>
-
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=4&animation=fadeIn" width="90%" />
 </p>
 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer" />
-</p>
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=80&section=footer" />
-</p>
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=4&animation=fadeIn" width="90%" />
-</p>
-
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=4&animation=fadeIn" width="90%" />
-</p>
 
 
 ## 🐍 Contribution Snake  
@@ -266,4 +236,6 @@ Products • Cart • Responsive UI
 🚀 Always learning. Always building.  
 ⚡ *Consistency beats talent.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer" />
+</p>
