@@ -1,4 +1,15 @@
 <p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=220&section=header&text=WELCOME%20TO%20THE%20MATRIX&fontSize=40&fontColor=00ff00&animation=fadeIn" />
+</p>
+
+
+
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=220&section=header&text=Shanmukha%20Penta&fontSize=55&fontColor=00ff00" />
 </p>
 
