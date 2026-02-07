@@ -67,6 +67,10 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 </p>
 
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+</p>
+
+<p align="center">
 <svg width="90%" height="6">
 <line x1="0" y1="3" x2="100%" y2="3" stroke="#00ff00" stroke-width="3">
 <animate attributeName="opacity" values="0.1;1;0.1" dur="1.2s" repeatCount="indefinite"/>
@@ -74,10 +78,14 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 </svg>
 </p>
 
-
 <h2 align="center" style="color:#00ff00;text-shadow:0 0 10px #00ff00;">
-🛠 Tech Stack  
+🚀 PROJECTS
 </h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=500&lines=Deploying+Projects..."/>
+</p>
+
 
 ### Frontend  
 ![React](https://img.shields.io/badge/React-00ff00?style=for-the-badge&logo=react)
