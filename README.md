@@ -174,12 +174,19 @@ Products • Cart • Responsive UI
 
 
 
-## 🧊 3D Contribution Graph
-
+## 🌌 3D Contribution Graph
 <p align="center">
-<img src="profile-3d-contrib/profile-night-green.svg" />
+  <img src="profile-3d-contrib/profile-night-green.svg" />
 </p>
 
+
+<p align="center">
+<svg width="90%" height="6">
+  <line x1="0" y1="3" x2="100%" y2="3" stroke="#00ff00" stroke-width="3">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite" />
+  </line>
+</svg>
+</p>
 
 
 ## 🐍 Contribution Snake  
