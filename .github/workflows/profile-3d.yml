@@ -9,7 +9,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: shannu1653
+        with:
+          username: shannu1653
+          output_dir: profile-3d-contrib
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-3d-contrib
+          git commit -m "Update 3D contribution graph" || echo "No changes"
+          git push
