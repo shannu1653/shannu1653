@@ -70,8 +70,9 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
 </p>
 
-
-## 🛠 Tech Stack  
+<h2 align="center" style="color:#00ff00;text-shadow:0 0 10px #00ff00;">
+🛠 Tech Stack  
+</h2>
 
 ### Frontend  
 ![React](https://img.shields.io/badge/React-00ff00?style=for-the-badge&logo=react)
