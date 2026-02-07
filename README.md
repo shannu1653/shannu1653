@@ -67,8 +67,13 @@ Hi, I’m **Shanmukha Penta**, a passionate **Full Stack Developer** focused on 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=2" />
+<svg width="90%" height="6">
+<line x1="0" y1="3" x2="100%" y2="3" stroke="#00ff00" stroke-width="3">
+<animate attributeName="opacity" values="0.1;1;0.1" dur="1.2s" repeatCount="indefinite"/>
+</line>
+</svg>
 </p>
+
 
 <h2 align="center" style="color:#00ff00;text-shadow:0 0 10px #00ff00;">
 🛠 Tech Stack  
