@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: GitHub Profile 3D
 
 on:
   workflow_dispatch:
@@ -8,18 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          username: shannu1653
-          output_dir: profile-3d-contrib
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add profile-3d-contrib
-          git commit -m "Update 3D contribution graph" || echo "No changes"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update 3d graph" || echo "nothing to commit"
           git push
